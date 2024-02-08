@@ -41,10 +41,6 @@ This project involves scraping data from various sources related to Mars, includ
 
 - Lena Hill
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
     
 
     
